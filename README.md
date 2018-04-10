@@ -1,3 +1,3 @@
-# tinper-bee-honeycomb
+# honeycomb-pro
 
 
