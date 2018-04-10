@@ -1,0 +1,40 @@
+{
+  "error_code": null,
+  "string": null,
+  "error_message": null,
+  "stack": null,
+  "status": "1",
+  "message": "操作成功！",
+  "data": [
+    {
+      "id": "dashboard",
+      "name": "用户中心",
+      "location": "/dashboard",
+      "menustatus": "Y",
+      "parentid": null,
+      "icon": "uf uf-9square-2",
+      "target": "",
+      "urltype": "url",
+      "children": [
+        {
+          "id": "user",
+          "name": "用户",
+          "location": "user",
+          "components":"developer/md-rp/main",
+          "menustatus": "Y",
+          "parentid": null,
+          "icon": "iconfont cl cl-filebox yellow-700",
+          "target": "",
+          "urltype": "url",
+          "children": [],
+          "sort": 2,
+          "openview": "curpage",
+          "category": "pass"
+        }
+      ],
+      "sort": 1,
+      "openview": "curpage",
+      "category": "engine"
+    }
+  ]
+}
